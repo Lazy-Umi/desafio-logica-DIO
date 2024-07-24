@@ -11,7 +11,7 @@ const herois = [
 ]
 
 const mensHero = "O Herói de nome "
-const mensRank = " está no nível "
+const mensRank = " está no nível de "
 
 for (let i = 0; i < herois.length; i++) {
     let hero = herois[i].nome;
